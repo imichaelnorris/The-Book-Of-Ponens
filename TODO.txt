@@ -1,0 +1,21 @@
+parse kjvdat
+
+have folder for bible
+under that have a folder for each book
+
+maybe have it be
+or just have it be by name
+01genesis
+02exodus
+03leviticus
+
+should it be separated by chapters?
+
+I need to have a TODO list on github of all the verses that need to be done.
+
+So what's the best way to do that then?
+
+bible
+ gen
+  1
+  
